@@ -5,7 +5,7 @@
 <br>
 
 ### Выбранная модель в среде NetLogo:
-Diffusion Graphics[http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Sample%20Models/Art/Diffusion%20Graphics.nlogo]
+Diffusion Graphics
 
 <br>
 
