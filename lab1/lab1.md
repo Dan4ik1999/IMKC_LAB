@@ -5,7 +5,7 @@
 <br>
 
 ### Выбранная модель в среде NetLogo:
-[Traffic Basic](http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Sample%20Models/Social%20Science/Traffic%20Basic.nlogo)
+Diffusion Graphics
 
 <br>
 
