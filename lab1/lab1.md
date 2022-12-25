@@ -5,7 +5,7 @@
 <br>
 
 ### Выбранная модель в среде NetLogo:
-[4 Blocks
+[4 Blocks]
 (http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Curricular%20Models/ProbLab/4%20Blocks.nlogo)
 
 <br>
