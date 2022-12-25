@@ -5,7 +5,7 @@
 <br>
 
 ### Выбранная модель в среде NetLogo:
-[Follower](http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Curricular%20Models/ProbLab/4%20Blocks.nlogo)
+[4 Blocks](http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Curricular%20Models/ProbLab/4%20Blocks.nlogo)
 
 <br>
 
